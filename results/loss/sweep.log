@@ -1,0 +1,84 @@
+X p=0.003 p_loss=0.02 shots=600 heralds/shot 34.5
+  blind-kit     fails   11  mean   368.9 ms  median   57.2  p99    6535
+  aware-kit     fails    1  mean   122.0 ms  median   40.7  p99    1747
+  blind-routed  fails    5  mean   129.5 ms  median   11.3  p99    2515
+  aware-routed  fails    0  mean    49.2 ms  median   13.6  p99     299
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.938), np.float64(0.062), np.float64(0.0)]
+Z p=0.003 p_loss=0.02 shots=600 heralds/shot 34.5
+  blind-kit     fails   11  mean   381.3 ms  median   86.2  p99    6971
+  aware-kit     fails    1  mean   110.2 ms  median   58.8  p99    1219
+  blind-routed  fails    5  mean   154.8 ms  median   16.6  p99    3587
+  aware-routed  fails    0  mean    52.2 ms  median   22.1  p99     209
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.957), np.float64(0.042), np.float64(0.002)]
+Z p=0.004 p_loss=0.02 shots=160 heralds/shot 34.4
+  blind-kit     fails   18  mean  2451.0 ms  median  346.5  p99   13607
+  aware-kit     fails    1  mean   380.3 ms  median  131.1  p99    3576
+  blind-routed  fails    7  mean  1709.7 ms  median   51.2  p99   19806
+  aware-routed  fails    0  mean   204.4 ms  median   32.1  p99    3036
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.794), np.float64(0.2), np.float64(0.006)]
+X p=0.005 p_loss=0.02 shots=80 heralds/shot 34.1
+  blind-kit     fails   20  mean  2673.9 ms  median 1764.6  p99    6507
+  aware-kit     fails    5  mean  1039.8 ms  median  246.8  p99    6821
+  blind-routed  fails   16  mean  3094.6 ms  median  606.1  p99   11933
+  aware-routed  fails    5  mean   982.4 ms  median   65.8  p99   11056
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.45), np.float64(0.462), np.float64(0.088)]
+Z p=0.005 p_loss=0.02 shots=80 heralds/shot 34.1
+  blind-kit     fails   21  mean  2506.2 ms  median 1233.4  p99    7150
+  aware-kit     fails    6  mean   957.2 ms  median  181.4  p99    6347
+  blind-routed  fails   11  mean  2866.2 ms  median  912.5  p99   12681
+  aware-routed  fails    1  mean   559.3 ms  median   31.3  p99    5321
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.538), np.float64(0.425), np.float64(0.038)]
+X p=0.003 p_loss=0.02 shots=600 heralds/shot 34.1
+  blind-kit     fails    9  mean   269.5 ms  median   50.4  p99    5387
+  aware-kit     fails    2  mean    87.8 ms  median   39.5  p99     810
+  blind-routed  fails    3  mean    88.4 ms  median   10.2  p99     867
+  aware-routed  fails    0  mean    23.3 ms  median   12.7  p99     213
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.938), np.float64(0.062), np.float64(0.0)]
+Z p=0.003 p_loss=0.02 shots=600 heralds/shot 34.1
+  blind-kit     fails    7  mean   224.4 ms  median   47.3  p99    5265
+  aware-kit     fails    1  mean    60.6 ms  median   36.2  p99     458
+  blind-routed  fails    1  mean    73.8 ms  median    9.4  p99     552
+  aware-routed  fails    1  mean    16.4 ms  median   12.0  p99     101
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.952), np.float64(0.048), np.float64(0.0)]
+X p=0.004 p_loss=0.02 shots=160 heralds/shot 34.9
+  blind-kit     fails    8  mean  1101.6 ms  median  132.8  p99    6737
+  aware-kit     fails    0  mean   233.2 ms  median   56.0  p99    3241
+  blind-routed  fails    6  mean   763.4 ms  median   15.9  p99   10662
+  aware-routed  fails    0  mean    97.9 ms  median   14.5  p99    2478
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.812), np.float64(0.175), np.float64(0.012)]
+Z p=0.004 p_loss=0.02 shots=160 heralds/shot 34.9
+  blind-kit     fails    7  mean  1272.0 ms  median  146.7  p99   11371
+  aware-kit     fails    0  mean   344.2 ms  median   85.8  p99    6326
+  blind-routed  fails    3  mean  1171.2 ms  median   30.2  p99   13200
+  aware-routed  fails    0  mean   155.7 ms  median   23.0  p99    3874
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.819), np.float64(0.169), np.float64(0.012)]
+X p=0.005 p_loss=0.02 shots=80 heralds/shot 35.0
+  blind-kit     fails   24  mean  5312.9 ms  median 4398.8  p99   12872
+  aware-kit     fails    9  mean  2198.6 ms  median  331.6  p99   11999
+  blind-routed  fails   11  mean  6283.1 ms  median 2829.6  p99   23682
+  aware-routed  fails    5  mean  1607.6 ms  median   52.4  p99   23416
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.575), np.float64(0.338), np.float64(0.088)]
+Z p=0.005 p_loss=0.02 shots=80 heralds/shot 35.0
+  blind-kit     fails   28  mean  5489.9 ms  median 3769.6  p99   14269
+  aware-kit     fails    9  mean  1952.3 ms  median  307.7  p99   12609
+  blind-routed  fails   19  mean  6749.8 ms  median 2414.6  p99   25529
+  aware-routed  fails    4  mean  1816.7 ms  median   56.1  p99   23000
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.562), np.float64(0.362), np.float64(0.075)]
+X p=0.003 p_loss=0.02 shots=600 heralds/shot 34.6
+  blind-kit     fails    9  mean   477.6 ms  median   89.2  p99    7107
+  aware-kit     fails    0  mean   132.4 ms  median   71.5  p99    1184
+  blind-routed  fails    1  mean    98.8 ms  median   18.5  p99    1282
+  aware-routed  fails    0  mean    36.2 ms  median   24.1  p99     208
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.948), np.float64(0.052), np.float64(0.0)]
+Z p=0.003 p_loss=0.02 shots=600 heralds/shot 34.6
+  blind-kit     fails    4  mean   510.9 ms  median  102.3  p99   11649
+  aware-kit     fails    0  mean   135.6 ms  median   72.2  p99    1535
+  blind-routed  fails    1  mean   184.2 ms  median   21.8  p99    4033
+  aware-routed  fails    0  mean    59.6 ms  median   24.7  p99     604
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.932), np.float64(0.068), np.float64(0.0)]
+X p=0.004 p_loss=0.02 shots=160 heralds/shot 34.6
+  blind-kit     fails   12  mean  2177.2 ms  median  368.5  p99   12706
+  aware-kit     fails    1  mean   425.5 ms  median  128.0  p99    6116
+  blind-routed  fails    6  mean  1544.7 ms  median   43.0  p99   23447
+  aware-routed  fails    0  mean   148.8 ms  median   30.3  p99    2092
+  aware-routed stages A/M-cond/M-plain: [np.float64(0.831), np.float64(0.169), np.float64(0.0)]
